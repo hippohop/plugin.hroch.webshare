@@ -4,7 +4,7 @@
 # Created on: 10.5.2020
 # License: AGPL v.3 https://www.gnu.org/licenses/agpl-3.0.html
 
-import io
+import  io
 import os
 import sys
 import xbmc
