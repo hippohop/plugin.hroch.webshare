@@ -20,3 +20,6 @@ jobs:
 
       - name: Spuštění kontroly flake8
         run: flake8 .
+        
+      - name: Spuštění kontroly flake8
+        run: flake8 . --exclude=md5crypt.py
